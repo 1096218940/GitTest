@@ -6,7 +6,6 @@ package com.kytsoft.gittest;
 
 public class Demo {
     private int num;
-
     private String name;
     private String appName;
 
